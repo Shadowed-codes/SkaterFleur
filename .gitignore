@@ -1,0 +1,7 @@
+.env
+pyvenv.cfg
+Scripts/
+Lib/
+Include/
+discord.log
+tests/
